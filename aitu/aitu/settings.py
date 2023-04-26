@@ -26,20 +26,8 @@ SECRET_KEY = 'django-insecure-nwtp&obvzpng%tb6b)p(b07%x6&ur++hsn!8qb=m8(cd78d6v4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-ALLOWED_HOSTS = ["127.0.0.1"]
-=======
-<<<<<<< HEAD
-ALLOWED_HOSTS = ["127.0.0.1"]
-=======
-ALLOWED_HOSTS = ["127.0.0.1", "0.0.0.0"]
->>>>>>> 2365014 (erdUha)
->>>>>>> 8a68ce7 (erdUha)
-=======
 
 ALLOWED_HOSTS = ["127.0.0.1", "0.0.0.0"]
->>>>>>> bc07925 (erdUha)
 
 
 # Application definition
